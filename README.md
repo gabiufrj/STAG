@@ -7,7 +7,9 @@ This is a suite that has two associated projects, one intended for Steganography
 If you want to check out the source code, just get the `source` folder and check that! But if you want to only use them as programs, get the `release` folder as they include both programs with all DLLs needed.
 
 **Disclaimer:**
-This was a project I done when I was an undergrad student researcher at GRIS, the CSIRT (Computer Security Incident Response Team) of UFRJ (Federal University of Rio de Janeiro - Brazil). This project works fine and achieved its purpose of making me understand Steganography and Steganalysis. Even though there's a lot of work that could be done to add new methods and improve the steganalysis tool overall, I don't plan on improving this project anytime soon because I don't quite have the time currently. The tools were made in Portuguese, but I guess it is pretty straight-forward for anyone interested in using it.
+This was a project I done when I was an undergrad student researcher at GRIS, the CSIRT (Computer Security Incident Response Team) of UFRJ (Federal University of Rio de Janeiro - Brazil), you can find more about GRIS and their job at their [site](https://gris.dcc.ufrj.br)(portuguese only), they do an important job at tutoring undergrad students and teaching the college community about information security - a camp that is still full of misconception and lack of information.
+
+This project works fine and achieved its purpose of making me understand Steganography and Steganalysis. Even though there's a lot of work that could be done to add new methods and improve the steganalysis tool overall, I don't plan on improving this project anytime soon because I don't quite have the time currently. The tools were made in Portuguese, but I guess it is pretty straight-forward for anyone interested in using it.
 
 ### STAG hide
 
